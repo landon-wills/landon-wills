@@ -1,6 +1,6 @@
 # Hello, I'm Landon 👋.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/landonjw/details/skills](https://www.linkedin.com/in/landonjw/)/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/landonjw/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]()
 
 I'm a 24 year-old professional fullstack engineer from Ontario, Canada.
