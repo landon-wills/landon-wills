@@ -29,7 +29,7 @@ I'm currently learning programming language design and UI/UX design in my free t
 
 ###### Tools:
 
-- **Frontend**: React, Angular, Re-frame, TailwindCSS, Bulma, CSCC
+- **Frontend**: React, Angular, Re-frame, TailwindCSS, Bulma, SCSS
 - **Backend**: ASP.NET, NextJS, Phoenix, Laravel
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Miscellaneous**: GCP, Cypress, Git, Linux
